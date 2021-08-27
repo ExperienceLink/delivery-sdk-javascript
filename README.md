@@ -1,1 +1,1 @@
-# delivery-sdk-js
+# delivery-sdk-javascript
